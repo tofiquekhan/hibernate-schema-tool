@@ -4,6 +4,15 @@ private int eno;
 private String ename;
 private float esal;
 private String eaddr;
+private String eemail;
+
+public void setEemail(String eemail){
+this.eemail = eemail;
+}
+
+public String getEemail(){
+return eemail;
+}
 
 public int getEno(){
 return eno;

@@ -10,6 +10,7 @@
 	<property name="ename" column="ename" length="10" />
   <property name="esal" column="esal" length="5" />
   <property name="eaddr" column="eaddr" length="10" />
+	<property  name="eemail" column="eemail" length="52" />
   </class>
   
   
